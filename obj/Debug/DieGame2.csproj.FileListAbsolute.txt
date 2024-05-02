@@ -1,0 +1,7 @@
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\bin\Debug\DieGame2.exe.config
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\bin\Debug\DieGame2.exe
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\bin\Debug\DieGame2.pdb
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\obj\Debug\DieGame2.csproj.AssemblyReference.cache
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\obj\Debug\DieGame2.csproj.CoreCompileInputs.cache
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\obj\Debug\DieGame2.exe
+D:\SEM B\Object-Oriented Programming\Assignment2_DieGame\DieGame2\obj\Debug\DieGame2.pdb

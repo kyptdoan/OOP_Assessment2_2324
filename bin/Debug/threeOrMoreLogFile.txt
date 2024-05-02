@@ -1,0 +1,895 @@
+02/05/2024 3:38:40 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 4
+ Die 3: 3
+ Die 4: 6
+02/05/2024 3:38:43 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 3
+ Die 2: 4
+ Die 3: 6
+ Die 4: 3
+02/05/2024 3:38:43 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:38:51 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 4
+ Die 2: 5
+ Die 3: 1
+ Die 4: 3
+02/05/2024 3:38:52 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 4
+ Die 2: 5
+ Die 3: 4
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 0 / Kind: 4 / Calculated point: 6
+02/05/2024 3:38:52 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:38:56 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 6
+ Die 2: 2
+ Die 3: 6
+ Die 4: 5
+02/05/2024 3:38:56 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 2
+ Die 2: 4
+ Die 3: 1
+ Die 4: 4
+02/05/2024 3:38:56 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:38:59 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 1
+ Die 2: 3
+ Die 3: 3
+ Die 4: 4
+02/05/2024 3:39:00 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 1
+ Die 1: 1
+ Die 2: 2
+ Die 3: 5
+ Die 4: 1
+Test passed: The point was calculated correctly.
+Previous point: 6 / Kind: 3 / Calculated point: 9
+02/05/2024 3:39:00 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:01 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 6
+ Die 2: 2
+ Die 3: 4
+ Die 4: 6
+02/05/2024 3:39:03 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 6
+ Die 2: 2
+ Die 3: 3
+ Die 4: 4
+02/05/2024 3:39:03 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:04 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 5
+ Die 2: 5
+ Die 3: 5
+ Die 4: 5
+Test passed: The point was calculated correctly.
+Previous point: 9 / Kind: 4 / Calculated point: 15
+02/05/2024 3:39:04 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:06 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 1
+ Die 2: 3
+ Die 3: 1
+ Die 4: 4
+02/05/2024 3:39:07 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 3
+ Die 1: 3
+ Die 2: 3
+ Die 3: 3
+ Die 4: 1
+Test passed: The point was calculated correctly.
+Previous point: 0 / Kind: 4 / Calculated point: 6
+02/05/2024 3:39:07 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:08 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 4
+ Die 2: 6
+ Die 3: 4
+ Die 4: 6
+02/05/2024 3:39:09 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 1
+ Die 1: 4
+ Die 2: 1
+ Die 3: 4
+ Die 4: 6
+02/05/2024 3:39:09 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:10 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 2
+ Die 3: 2
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 6 / Kind: 3 / Calculated point: 9
+02/05/2024 3:39:10 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:11 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 4
+ Die 2: 1
+ Die 3: 3
+ Die 4: 6
+02/05/2024 3:39:11 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:13 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 5
+ Die 2: 5
+ Die 3: 1
+ Die 4: 2
+02/05/2024 3:39:14 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 5
+ Die 1: 5
+ Die 2: 5
+ Die 3: 2
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 9 / Kind: 3 / Calculated point: 12
+02/05/2024 3:39:14 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:15 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 3
+ Die 2: 1
+ Die 3: 2
+ Die 4: 2
+02/05/2024 3:39:16 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 1
+ Die 2: 5
+ Die 3: 1
+ Die 4: 6
+02/05/2024 3:39:16 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:17 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 1
+ Die 2: 1
+ Die 3: 2
+ Die 4: 2
+02/05/2024 3:39:17 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 1
+ Die 2: 1
+ Die 3: 1
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 12 / Kind: 3 / Calculated point: 15
+02/05/2024 3:39:17 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:18 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 4
+ Die 2: 1
+ Die 3: 2
+ Die 4: 3
+02/05/2024 3:39:19 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 4
+ Die 2: 3
+ Die 3: 4
+ Die 4: 5
+Test passed: The point was calculated correctly.
+Previous point: 15 / Kind: 3 / Calculated point: 18
+02/05/2024 3:39:19 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:20 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 5
+ Die 2: 3
+ Die 3: 2
+ Die 4: 2
+02/05/2024 3:39:21 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 1
+ Die 1: 2
+ Die 2: 4
+ Die 3: 2
+ Die 4: 2
+Test passed: The point was calculated correctly.
+Previous point: 15 / Kind: 3 / Calculated point: 18
+02/05/2024 3:39:21 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:22 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 5
+ Die 2: 5
+ Die 3: 2
+ Die 4: 1
+02/05/2024 3:39:23 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 2
+ Die 2: 6
+ Die 3: 2
+ Die 4: 5
+02/05/2024 3:39:23 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:24 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 2
+ Die 2: 6
+ Die 3: 2
+ Die 4: 3
+02/05/2024 3:39:24 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 1
+ Die 1: 2
+ Die 2: 1
+ Die 3: 2
+ Die 4: 6
+02/05/2024 3:39:24 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:26 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 5
+ Die 2: 2
+ Die 3: 5
+ Die 4: 6
+02/05/2024 3:39:26 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 4
+ Die 2: 4
+ Die 3: 6
+ Die 4: 2
+02/05/2024 3:39:26 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 3:39:27 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 6
+ Die 2: 4
+ Die 3: 6
+ Die 4: 6
+Test passed: The point was calculated correctly.
+Previous point: 18 / Kind: 3 / Calculated point: 21
+02/05/2024 3:39:27 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:11 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 2
+ Die 3: 2
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 0 / Kind: 3 / Calculated point: 3
+02/05/2024 6:14:11 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:11 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 5
+ Die 2: 4
+ Die 3: 5
+ Die 4: 4
+02/05/2024 6:14:11 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 1
+ Die 2: 2
+ Die 3: 6
+ Die 4: 4
+02/05/2024 6:14:11 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:13 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 3
+ Die 2: 4
+ Die 3: 5
+ Die 4: 6
+02/05/2024 6:14:14 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 6
+ Die 1: 5
+ Die 2: 5
+ Die 3: 6
+ Die 4: 6
+Test passed: The point was calculated correctly.
+Previous point: 3 / Kind: 3 / Calculated point: 6
+02/05/2024 6:14:14 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:14 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 4
+ Die 2: 6
+ Die 3: 6
+ Die 4: 6
+Test passed: The point was calculated correctly.
+Previous point: 0 / Kind: 3 / Calculated point: 3
+02/05/2024 6:14:14 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:15 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 5
+ Die 2: 4
+ Die 3: 3
+ Die 4: 6
+02/05/2024 6:14:17 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 4
+ Die 2: 1
+ Die 3: 3
+ Die 4: 5
+02/05/2024 6:14:17 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:17 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 1
+ Die 2: 2
+ Die 3: 1
+ Die 4: 2
+02/05/2024 6:14:17 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 5
+ Die 2: 6
+ Die 3: 4
+ Die 4: 4
+02/05/2024 6:14:17 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:17 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 3
+ Die 2: 5
+ Die 3: 1
+ Die 4: 3
+02/05/2024 6:14:19 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 5
+ Die 1: 6
+ Die 2: 5
+ Die 3: 2
+ Die 4: 4
+02/05/2024 6:14:19 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:19 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 4
+ Die 2: 4
+ Die 3: 3
+ Die 4: 1
+02/05/2024 6:14:19 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 5
+ Die 2: 6
+ Die 3: 6
+ Die 4: 4
+02/05/2024 6:14:19 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:20 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 6
+ Die 2: 2
+ Die 3: 4
+ Die 4: 3
+02/05/2024 6:14:20 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:20 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 5
+ Die 2: 5
+ Die 3: 5
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 3 / Kind: 3 / Calculated point: 6
+02/05/2024 6:14:20 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:22 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 1
+ Die 2: 1
+ Die 3: 5
+ Die 4: 2
+02/05/2024 6:14:22 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 2
+ Die 2: 3
+ Die 3: 1
+ Die 4: 3
+02/05/2024 6:14:22 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:22 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 6
+ Die 2: 6
+ Die 3: 6
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 6 / Kind: 3 / Calculated point: 9
+02/05/2024 6:14:22 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:23 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 2
+ Die 2: 3
+ Die 3: 1
+ Die 4: 4
+02/05/2024 6:14:23 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:23 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 6
+ Die 3: 2
+ Die 4: 5
+02/05/2024 6:14:23 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 2
+ Die 2: 2
+ Die 3: 2
+ Die 4: 2
+Test passed: The point was calculated correctly.
+Previous point: 9 / Kind: 4 / Calculated point: 15
+02/05/2024 6:14:23 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:25 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 2
+ Die 2: 3
+ Die 3: 5
+ Die 4: 2
+02/05/2024 6:14:26 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 1
+ Die 2: 2
+ Die 3: 3
+ Die 4: 6
+02/05/2024 6:14:26 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:26 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 5
+ Die 2: 3
+ Die 3: 3
+ Die 4: 6
+02/05/2024 6:14:26 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 4
+ Die 2: 2
+ Die 3: 1
+ Die 4: 3
+02/05/2024 6:14:26 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:26 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 3
+ Die 2: 2
+ Die 3: 2
+ Die 4: 5
+02/05/2024 6:14:27 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 2
+ Die 1: 1
+ Die 2: 2
+ Die 3: 2
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 6 / Kind: 3 / Calculated point: 9
+02/05/2024 6:14:27 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:27 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 6
+ Die 2: 1
+ Die 3: 5
+ Die 4: 6
+02/05/2024 6:14:27 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 3
+ Die 2: 6
+ Die 3: 1
+ Die 4: 2
+02/05/2024 6:14:27 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:28 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 2
+ Die 2: 6
+ Die 3: 2
+ Die 4: 4
+02/05/2024 6:14:29 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 2
+ Die 3: 1
+ Die 4: 1
+02/05/2024 6:14:29 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:29 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 3
+ Die 2: 4
+ Die 3: 3
+ Die 4: 4
+02/05/2024 6:14:29 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 2
+ Die 2: 3
+ Die 3: 6
+ Die 4: 1
+02/05/2024 6:14:29 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:29 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 1
+ Die 2: 5
+ Die 3: 5
+ Die 4: 1
+Test passed: The point was calculated correctly.
+Previous point: 9 / Kind: 3 / Calculated point: 12
+02/05/2024 6:14:29 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:29 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 6
+ Die 2: 3
+ Die 3: 6
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 15 / Kind: 3 / Calculated point: 18
+02/05/2024 6:14:29 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:30 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 6
+ Die 2: 3
+ Die 3: 2
+ Die 4: 4
+02/05/2024 6:14:30 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:30 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 4
+ Die 2: 4
+ Die 3: 6
+ Die 4: 6
+02/05/2024 6:14:30 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 1
+ Die 1: 4
+ Die 2: 4
+ Die 3: 3
+ Die 4: 2
+02/05/2024 6:14:30 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:31 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 1
+ Die 2: 5
+ Die 3: 2
+ Die 4: 4
+02/05/2024 6:14:32 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 6
+ Die 2: 5
+ Die 3: 6
+ Die 4: 1
+02/05/2024 6:14:32 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:32 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 1
+ Die 2: 4
+ Die 3: 3
+ Die 4: 1
+Test passed: The point was calculated correctly.
+Previous point: 18 / Kind: 3 / Calculated point: 21
+02/05/2024 6:14:32 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:37 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 2
+ Die 2: 4
+ Die 3: 5
+ Die 4: 3
+02/05/2024 6:14:38 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 2
+ Die 1: 2
+ Die 2: 4
+ Die 3: 6
+ Die 4: 3
+02/05/2024 6:14:38 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:38 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 3
+ Die 2: 6
+ Die 3: 5
+ Die 4: 3
+02/05/2024 6:14:38 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 4
+ Die 2: 6
+ Die 3: 6
+ Die 4: 4
+02/05/2024 6:14:38 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:39 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 4
+ Die 2: 5
+ Die 3: 2
+ Die 4: 1
+02/05/2024 6:14:39 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:39 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 3
+ Die 2: 6
+ Die 3: 4
+ Die 4: 2
+02/05/2024 6:14:39 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 2
+ Die 1: 6
+ Die 2: 2
+ Die 3: 1
+ Die 4: 2
+Test passed: The point was calculated correctly.
+Previous point: 0 / Kind: 3 / Calculated point: 3
+02/05/2024 6:14:39 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:40 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 3
+ Die 2: 3
+ Die 3: 2
+ Die 4: 5
+02/05/2024 6:14:41 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 1
+ Die 3: 4
+ Die 4: 1
+02/05/2024 6:14:41 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:41 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 6
+ Die 2: 6
+ Die 3: 5
+ Die 4: 2
+02/05/2024 6:14:41 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 5
+ Die 1: 4
+ Die 2: 1
+ Die 3: 5
+ Die 4: 2
+02/05/2024 6:14:41 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:42 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 1
+ Die 2: 4
+ Die 3: 4
+ Die 4: 5
+02/05/2024 6:14:42 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 1
+ Die 1: 1
+ Die 2: 3
+ Die 3: 6
+ Die 4: 1
+Test passed: The point was calculated correctly.
+Previous point: 0 / Kind: 3 / Calculated point: 3
+02/05/2024 6:14:42 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:42 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 3
+ Die 2: 3
+ Die 3: 6
+ Die 4: 5
+02/05/2024 6:14:42 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 5
+ Die 2: 2
+ Die 3: 5
+ Die 4: 3
+02/05/2024 6:14:42 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:43 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 3
+ Die 2: 6
+ Die 3: 4
+ Die 4: 5
+02/05/2024 6:14:43 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:43 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 2
+ Die 2: 4
+ Die 3: 1
+ Die 4: 3
+02/05/2024 6:14:43 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 4
+ Die 2: 1
+ Die 3: 3
+ Die 4: 4
+02/05/2024 6:14:43 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:44 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 6
+ Die 2: 2
+ Die 3: 4
+ Die 4: 3
+02/05/2024 6:14:45 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 6
+ Die 1: 6
+ Die 2: 4
+ Die 3: 6
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 3 / Kind: 3 / Calculated point: 6
+02/05/2024 6:14:45 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:45 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 1
+ Die 2: 6
+ Die 3: 4
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 3 / Kind: 3 / Calculated point: 6
+02/05/2024 6:14:45 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:46 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 2
+ Die 2: 2
+ Die 3: 4
+ Die 4: 6
+Test passed: The point was calculated correctly.
+Previous point: 6 / Kind: 3 / Calculated point: 9
+02/05/2024 6:14:46 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:46 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 3
+ Die 2: 4
+ Die 3: 3
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 6 / Kind: 3 / Calculated point: 9
+02/05/2024 6:14:46 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:47 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 1
+ Die 2: 3
+ Die 3: 2
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 9 / Kind: 3 / Calculated point: 12
+02/05/2024 6:14:47 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:47 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 6
+ Die 2: 4
+ Die 3: 2
+ Die 4: 1
+02/05/2024 6:14:47 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 2
+ Die 2: 4
+ Die 3: 6
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 9 / Kind: 3 / Calculated point: 12
+02/05/2024 6:14:47 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:48 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 5
+ Die 2: 3
+ Die 3: 6
+ Die 4: 1
+02/05/2024 6:14:49 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 3
+ Die 1: 1
+ Die 2: 3
+ Die 3: 2
+ Die 4: 3
+Test passed: The point was calculated correctly.
+Previous point: 12 / Kind: 3 / Calculated point: 15
+02/05/2024 6:14:49 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:49 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 6
+ Die 2: 4
+ Die 3: 2
+ Die 4: 5
+02/05/2024 6:14:49 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 5
+ Die 1: 2
+ Die 2: 4
+ Die 3: 5
+ Die 4: 5
+Test passed: The point was calculated correctly.
+Previous point: 12 / Kind: 3 / Calculated point: 15
+02/05/2024 6:14:49 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:50 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 6
+ Die 2: 1
+ Die 3: 4
+ Die 4: 3
+02/05/2024 6:14:50 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:50 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 4
+ Die 2: 1
+ Die 3: 2
+ Die 4: 4
+02/05/2024 6:14:50 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 6
+ Die 1: 4
+ Die 2: 5
+ Die 3: 3
+ Die 4: 4
+02/05/2024 6:14:50 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:51 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 4
+ Die 2: 3
+ Die 3: 3
+ Die 4: 5
+02/05/2024 6:14:51 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 6
+ Die 2: 4
+ Die 3: 6
+ Die 4: 3
+02/05/2024 6:14:51 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:51 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 1
+ Die 2: 6
+ Die 3: 4
+ Die 4: 1
+02/05/2024 6:14:51 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 6
+ Die 2: 5
+ Die 3: 2
+ Die 4: 2
+02/05/2024 6:14:51 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:52 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 6
+ Die 2: 1
+ Die 3: 2
+ Die 4: 3
+02/05/2024 6:14:53 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 6
+ Die 1: 6
+ Die 2: 1
+ Die 3: 4
+ Die 4: 2
+02/05/2024 6:14:53 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:53 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 2
+ Die 1: 4
+ Die 2: 4
+ Die 3: 2
+ Die 4: 3
+02/05/2024 6:14:53 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 1
+ Die 1: 1
+ Die 2: 2
+ Die 3: 2
+ Die 4: 6
+02/05/2024 6:14:53 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:54 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 6
+ Die 1: 4
+ Die 2: 5
+ Die 3: 1
+ Die 4: 2
+02/05/2024 6:14:54 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:54 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 4
+ Die 2: 3
+ Die 3: 3
+ Die 4: 2
+02/05/2024 6:14:54 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 4
+ Die 2: 3
+ Die 3: 3
+ Die 4: 2
+02/05/2024 6:14:54 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:55 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 5
+ Die 1: 4
+ Die 2: 3
+ Die 3: 4
+ Die 4: 5
+02/05/2024 6:14:56 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 3
+ Die 1: 2
+ Die 2: 6
+ Die 3: 5
+ Die 4: 2
+02/05/2024 6:14:56 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:56 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 2
+ Die 2: 2
+ Die 3: 5
+ Die 4: 2
+Test passed: The point was calculated correctly.
+Previous point: 15 / Kind: 3 / Calculated point: 18
+02/05/2024 6:14:56 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:56 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 6
+ Die 2: 4
+ Die 3: 6
+ Die 4: 3
+02/05/2024 6:14:57 AM. Test passed: 5 dice value are from 1 to 6 (inclusive).
+ Die 0: 4
+ Die 1: 1
+ Die 2: 4
+ Die 3: 5
+ Die 4: 5
+02/05/2024 6:14:57 AM. Test passed: The game ends when a player reaches 20 or more.
+02/05/2024 6:14:57 AM. Pass passed: The game ends when a player reaches 20 or more.
+ Die 0: 4
+ Die 1: 5
+ Die 2: 5
+ Die 3: 4
+ Die 4: 4
+Test passed: The point was calculated correctly.
+Previous point: 18 / Kind: 3 / Calculated point: 21
+02/05/2024 6:14:57 AM. Test passed: The game ends when a player reaches 20 or more.

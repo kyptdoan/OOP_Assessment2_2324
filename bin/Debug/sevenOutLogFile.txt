@@ -1,0 +1,44 @@
+02/05/2024 3:30:15 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (2, 5)
+Test passed: The game ends when the total is 7.
+02/05/2024 3:34:28 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (3, 3)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 0 / Dice value total: 6 / Calculated Points: 12.
+02/05/2024 3:34:30 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (5, 5)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 0 / Dice value total: 10 / Calculated Points: 20.
+02/05/2024 3:34:34 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (4, 4)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 12 / Dice value total: 8 / Calculated Points: 28.
+02/05/2024 3:34:34 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (3, 4)
+Test passed: The game ends when the total is 7.
+02/05/2024 6:13:55 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (3, 5)
+Test passed: The game ends when the total is 7.
+02/05/2024 6:13:55 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (1, 2)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 0 / Dice value total: 3 / Calculated Points: 3.
+02/05/2024 6:13:56 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (6, 6)
+Test passed: The game ends when the total is 7.
+02/05/2024 6:13:56 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (5, 6)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 3 / Dice value total: 11 / Calculated Points: 14.
+02/05/2024 6:13:57 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (3, 4)
+Test passed: The game ends when the total is 7.
+02/05/2024 6:14:01 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (6, 6)
+Test passed: The game ends when the total is 7.
+02/05/2024 6:14:01 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (4, 2)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 0 / Dice value total: 6 / Calculated Points: 6.
+02/05/2024 6:14:07 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (3, 1)
+Test passed: The game ends when the total is 7.
+02/05/2024 6:14:07 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (4, 2)
+Test passed: The game ends when the total is 7.
+Test passed: The point was calculated correctly.
+Previous point: 6 / Dice value total: 6 / Calculated Points: 12.
+02/05/2024 6:14:08 AM. Test passed: 2 dice value are from 1 to 6 (inclusive). (6, 1)
+Test passed: The game ends when the total is 7.
